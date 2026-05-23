@@ -12,7 +12,7 @@ def criar_preferencia(nome, valor):
             }
         ],
         "notification_url":
-        "https://evolve-outback-mongoose.ngrok-free.dev/webhook"
+        "https://mercadopagocheckoutpro.onrender.com/webhook"
     }
 
     preference_response = SDK.preference().create(
